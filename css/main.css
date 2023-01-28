@@ -5874,7 +5874,7 @@ canvas {
 .list-group-item-action:focus {
   color: #495057;
   text-decoration: none;
-  background-color: #f8f9fa;
+
 }
 
 .list-group-item-action:active {
@@ -5943,7 +5943,7 @@ canvas {
 .list-group-item-primary.list-group-item-action:hover,
 .list-group-item-primary.list-group-item-action:focus {
   color: #004085;
-  background-color: #9fcdff;
+
 }
 
 .list-group-item-primary.list-group-item-action.active {
@@ -5960,7 +5960,7 @@ canvas {
 .list-group-item-secondary.list-group-item-action:hover,
 .list-group-item-secondary.list-group-item-action:focus {
   color: #383d41;
-  background-color: #c8cbcf;
+ 
 }
 
 .list-group-item-secondary.list-group-item-action.active {
