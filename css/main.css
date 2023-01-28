@@ -13542,7 +13542,6 @@ div#products>div .row>div .product-wrap img {
   height: calc(210px - 62px);
   position: relative;
   top: -1px;
-  border: solid 1px #000;
 }
 
 @media (min-width: 1500px) {
